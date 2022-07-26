@@ -1,0 +1,87 @@
+/* h1 {
+    color: rgb(34, 34, 34);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    text-transform: uppercase;
+    line-height: 30px;
+  }
+  
+  p {
+    font-size: 18px;
+    font-style: italic;
+    
+    line-height: 1.5;
+    
+    font-weight: bold;
+  }
+  
+  div {
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: left;
+  }
+  img {
+    display: block;
+    text-align: left;
+  } */
+/* h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 25px;
+}
+h2,
+h3 {
+  font-weight: 500;
+  line-height: 1.2;
+  text-transform: capitalize;
+}
+h3.heading {
+  color: red;
+}
+#heading-secondary {
+  color: blue;
+}
+
+.text:nth-child(-n + 4) {
+  color: green;
+  text-align: center;
+} */
+/* .text:not(:last-child) {
+  text-align: center;
+} */
+/* .heading-primary:hover {
+  color: blue;
+} */
+
+/* * {
+  color: blue;
+}
+h1 {
+  color: yellow;
+}
+#heading-primary {
+  color: aqua;
+}
+.heading-primary {
+  color: red !important;
+}
+.text:nth-child(2) {
+  background-color: black;
+}
+.active {
+  color: brown;
+} */
+/* .box .text {
+  color: red;
+}
+.text {
+  color: blue;
+} */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+}
